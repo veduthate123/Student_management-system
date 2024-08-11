@@ -1,0 +1,54 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container1{
+    min-height: 700px;
+    width: 100%;
+}
+
+nav{
+    height: 90px;
+    width: 100%;
+    font-size: 18.5px;
+}
+
+.navbar-brand{
+    padding-left: 20px;
+   
+}
+  
+
+.d-flex{
+    margin-right: 100px;
+}
+.me-2{
+    width: 40%;
+}
+
+.cent{
+    min-height: 600px;
+    max-width: 100%;
+    padding: 80px;
+    text-align: center;
+}
+
+table{
+    width: 80%;
+    margin-left: 20px;
+}
+
+th{
+    font-size: 19px;
+}
+
+td{
+    font-size: 17px;
+}
+
+
+.btn:hover .stars{
+    filter: drop-shadow(0 0 10px rgb(89, 89, 228))
+}
